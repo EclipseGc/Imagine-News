@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Imagine News feature.
+ */
+
+include_once('imagine_news.features.inc');
